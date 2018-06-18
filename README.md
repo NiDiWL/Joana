@@ -2,7 +2,7 @@
 
 ### Instalar
 
-`git clone` https://github.com/NiDiWL/Templario.git
+`git clone` https://github.com/NiDiWL/Joana.git
 
 `npm install`
 
