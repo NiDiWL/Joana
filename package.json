@@ -1,0 +1,11 @@
+{
+  "name": "Joana",
+  "version": "1.0.0b",
+  "description": "Mãe de todos",
+  "main": "index.js",
+  "author": "NiDi",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
