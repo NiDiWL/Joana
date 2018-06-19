@@ -19,7 +19,7 @@ client.on('ready', () => {
     if (members.some(function(member) { return guildMember.displayName.indexOf(member) > -1; })) {
       console.log (`É membro: ${guildMember.displayName}`);
     } else {
-      console.log (`Não é membro: ${guildMember.displayName}`);
+      console.log (`Não é membro: ${guildMember.displayName} ${guildMember.removeRole(ROLE_ID)}`)
     }
   });
 });
